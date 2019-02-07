@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- All links are relevant, tested and well described
+- Commercial products are marked as such, possibly including the street price
+- For any commercial product inserted, make sure you add open source software and hardware alternatives
 
 Thank you for your suggestions!
 
