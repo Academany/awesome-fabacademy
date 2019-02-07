@@ -9,8 +9,10 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - All links are relevant, tested and well described
-- Commercial products are marked as such, possibly including the street price
+- Topics should follow the Fab Academy units, then broken in tutorials, tools, resources.
+- Commercial products are marked as such, possibly including the street price ($=tens of dollars,$$=hundreds,$$$=thousands)
 - For any commercial product inserted, make sure you add open source software and hardware alternatives
+- Open source links should include the license in brackets i.e. (MIT)
 
 Thank you for your suggestions!
 
