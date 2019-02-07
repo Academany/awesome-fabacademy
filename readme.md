@@ -1,13 +1,11 @@
-# Awesome Fabacademy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Fabacademy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Travis build status](https://travis-ci.org/Academany/awesome-fabacademy.svg?branch=master)
 
 > A curated list of Fab Academy Resources
-
 
 ## Contents
 
 - [Section](#section)
 - [Another Section](#another-section)
-
 
 ## Section
 
@@ -16,7 +14,6 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-
 ## Another Section
 
 ### Subsection
@@ -24,11 +21,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
