@@ -43,7 +43,6 @@
     - [Slicers](#slicers)
     - [Control Software](#control-software)
   - [Online 3D Model Repositories](#online-3d-model-repositories)
-    - [Search Engines](#search-engines)
     - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
   - [Related Awesome Lists](#related-awesome-lists)
   - [Symbols](#symbols)
@@ -229,10 +228,9 @@ Commercial :moneybag:
 
 ### Part Search
 
-- [Octopart](https://octopart.com) - Probably the most well known part search engine.
+- [Octopart](http://octopart.com) - Probably the most well known part search engine.
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
-- [Buyparts.io](http://buyparts.io) - A new contender from the creator of the datasheetarchive.com. Is aimed at hobbyists and seems to be better at incorporating sources such as Ebay and Aliexpress.
 
 ### Development Board Retailers
 
@@ -286,7 +284,7 @@ Commercial :moneybag:
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
-- [Seeed Studio Fusion](https://seeed.com) - Cheap PCB manufacturing also in large quantities, consulting services
+- [Seeed Studio Fusion](https://www.seeedstudio.com/fusion.html) - Cheap PCB manufacturing also in large quantities, consulting services
 
 ## 3D Printing
 
@@ -302,7 +300,6 @@ Commercial :moneybag:
 - [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
 - [Repetier](http://repetier.com) - Place, slice, preview and print.
 - [ReplicatorG](http://replicat.org) - Open source 3D printing program.
-- [Formide](http://printr.com/formide) - Platform to manage multiple printers, multiple users and projects.
 - [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
 
 ## Online 3D Model Repositories
@@ -312,7 +309,6 @@ From 3D printer manufacturer:
 - [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
 - [Thingiverse](https://thingiverse.com) (from Makerbot)
 - [Treasure Island](http://treasure.is) (from Pirate3D)
-- [YouMagine](https://youmagine.com) (from Ultimaker)
 
 Independent:
 
@@ -323,7 +319,6 @@ Independent:
 - [CGtrader](http://cgtrader.com)
 - [Cuboyo](http://cuboyo.com)
 - [Cults](http://en.cults3d.com)
-- [FABFabbers](http://fabfabbers.com)
 - [FabMe](http://fabme.it)
 - [GrabCAD](http://grabcad.com)
 - [MakerBot Digital Store](http://makerbot.com/digital-store)
@@ -332,17 +327,10 @@ Independent:
 - [Redpah](https://redpah.com)
 - [Repables](http://repables.com)
 - [Sculpteo](http://sculpteo.com)
-- [Shapeways](https://shapeways.com)
 - [SketchFab](https://sketchfab.com)
 - [SproutForm](http://sproutform.com)
 - [TF3DM](http://tf3dm.com)
 - [Turbosquid](http://turbosquid.com)
-- [Uformit](http://uformit.com)
-
-### Search Engines
-
-- [3Dshap.es](http://3dshap.es) - Find 3D Printable Designs Using 3D shapes.
-- [Yobi3d](https://yobi3d.com) - 3D model search engine with direct 3D printing support via [3D Hubs](https://3dhubs.com).
 
 ### On Demand 3D Printing Services
 
