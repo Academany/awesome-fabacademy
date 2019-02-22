@@ -153,6 +153,11 @@ Mostly :free: with :moneybag: options
 - :moneybag: [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) :school: very powerful, cloud integration, integrated mesh, nurbs, surfaces, parametric, CAM tools
 - :moneybag: [Solidworks](https://www.solidworks.com/) :school: Very advanced and complex, used for industrial applications
 
+#### Simulation
+
+- [Calculix](http://www.calculix.de/). Open Source alternative to Abaqus. Very similar input file.
+- [Paraview](https://www.paraview.org/) great post processor (Open Source)
+
 ### Vector
 
 - [Inkscape](https://inkscape.org/) best option for open-source lovers, many extensions, programming in python
@@ -183,6 +188,11 @@ Commercial :moneybag:
 - [Photoshop](https://www.adobe.com/products/photoshop.html) - de facto standard for image editing
 - [LightRoom](https://www.adobe.com/it/products/photoshop-lightroom.html) - photo editing and organization
 - [Pixelmator](https://www.pixelmator.com/pro/) - cost effective image editing for Mac
+
+## Computer controlled cutting
+
+- [Deepnest](https://deepnest.io/) Open source nesting software
+- [Inkcut](https://www.codelv.com/projects/inkcut/) Open source software or controlling 2D plotters, cutters, engravers, and CNC machines
 
 ## Electronics design
 
@@ -302,7 +312,7 @@ Commercial :moneybag:
 - [ReplicatorG](http://replicat.org) - Open source 3D printing program.
 - [Makerbot Desktop](http://www.makerbot.com/desktop) - Discover, manage and share your 3D prints.
 
-## Online 3D Model Repositories
+### Online 3D Model Repositories
 
 From 3D printer manufacturer:
 
@@ -337,6 +347,13 @@ Independent:
 - [3D Hubs](https://3dhubs.com)
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
+
+## Wildcard week
+
+### Digital Embroidery
+
+- [Ink/Stitch](https://inkstitch.org/) Open source Inkscape plugin for digital embroidery<br />
+- [SophieSew](http://sophiesew.com/SS2/) Free embroidery design software
 
 ## Related Awesome Lists
 
