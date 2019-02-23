@@ -2,8 +2,8 @@
 
 - [Code of conduct](#code-of-conduct)
 - [Guidelines](#guidelines)
-- [Adding something to this awesome list](#adding-something-to-this-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+- [Adding content to this awesome list (Pull Request)](#adding-content-to-this-awesome-list-pull-request)
+- [If we ask you to update your Pull Request](#if-we-ask-you-to-update-your-pull-request)
 
 ## Code of conduct
 
@@ -15,9 +15,10 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- All links are relevant, tested and well described
-- Topics should follow the Fab Academy units, then broken in tutorials, tools, resources.
-- Commercial products are marked as such, possibly including the street price 
+- Keep in mind this is an **awesome** list, not any piece of crap you find
+- All links must be relevant, tested and well described
+- Topics should follow the Fab Academy units, then broken in subcategories like tutorials, tools, resources.
+- Mark commercial products, including the street price, if possible
   - :moneybag: = tens of dollars
   - :moneybag::moneybag: = hundreds of dollars
   - :moneybag::moneybag::moneybag: = thousands of dollars
@@ -26,7 +27,7 @@ Ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-## Adding something to this awesome list
+## Adding content to this awesome list (Pull Request)
 
 If you have something awesome to contribute to the list, this is how you do it.
 
@@ -39,7 +40,7 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-## Updating your Pull Request
+## If we ask you to update your Pull Request
 
 A lot of times, making a Pull Request adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to

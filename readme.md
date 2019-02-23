@@ -1,31 +1,33 @@
 # Awesome Fabacademy
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Travis build status](https://travis-ci.org/Academany/awesome-fabacademy.svg?branch=master)](https://travis-ci.org/Academany/awesome-fabacademy)
+A curated list of [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Fab Academy Resources. [![Travis build status](https://travis-ci.org/Academany/awesome-fabacademy.svg?branch=master)](https://travis-ci.org/Academany/awesome-fabacademy)
 
-> A curated list of Fab Academy Resources
+Emoji Symbols used in this list
 
-## Contents
+- :moneybag: `:moneybag:` = commercial
+- :school: `:school:` = free for education
+- :white_check_mark: `:white_check_mark:` = recommended
+- :free: `:free:` = commercial but with free license (possibly limited)
 
-- [Contents](#contents)
 - [Project Management](#project-management)
   - [Project management tools](#project-management-tools)
   - [Project management techniques](#project-management-techniques)
 - [Version Control](#version-control)
-  - [Protocols](#protocols)
-    - [Git](#git)
-    - [Subversion](#subversion)
-    - [Mercurial](#mercurial)
+  - [Git](#git)
+  - [Subversion](#subversion)
+  - [Mercurial](#mercurial)
   - [Hosting platforms](#hosting-platforms)
 - [CAD](#cad)
   - [2D](#2d)
+    - [Drafting](#drafting)
+    - [Raster](#raster)
+    - [Vector](#vector)
+    - [Wireframes & UX Design](#wireframes--ux-design)
   - [3D](#3d)
     - [Mesh modeling](#mesh-modeling)
     - [Sculpting](#sculpting)
     - [Parametric modeling](#parametric-modeling)
     - [Simulation](#simulation)
-  - [Vector](#vector)
-  - [Wireframes & UX Design](#wireframes--ux-design)
-  - [Raster](#raster)
 - [Computer controlled cutting](#computer-controlled-cutting)
 - [Electronics design](#electronics-design)
   - [EDA Packages](#eda-packages)
@@ -48,7 +50,6 @@
 - [Wildcard week](#wildcard-week)
   - [Digital Embroidery](#digital-embroidery)
 - [Related Awesome Lists](#related-awesome-lists)
-- [Symbols](#symbols)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -56,7 +57,7 @@
 
 ### Project management tools
 
-- :white_check_mark: [GitLab](https://www.gitlab.com/)- Clone of GitHub, has issue trackers, kan ban boards and milestones
+- :white_check_mark: [GitLab](https://www.gitlab.com/)- Clone of GitHub, with issue trackers, kanban boards and milestones
 - [Redmine](http://www.redmine.org/) - Popular choice for software projects, Ruby on Rails
 - [Trac](http://trac.edgewall.org/)- Similar to Redmine but written in Python, has Gantt charts
 - [OpenProject](https://www.openproject.org) - Project collaboration software, has Gantt charts
@@ -74,9 +75,7 @@
 
 ## Version Control
 
-### Protocols
-
-#### Git
+### Git
 
 Docs
 
@@ -96,7 +95,7 @@ Clients
 - [Legit](http://www.git-legit.org/) - command-line interface for Git, optimized for workflow simplicity.
 - [Tower](https://www.git-tower.com/mac) - powerful client for Mac and Windows
 
-#### Subversion
+### Subversion
 
 - [SVN](http://subversion.apache.org/) - popular centralized version control system.
 - [SVN Red book](http://svnbook.red-bean.com/) - you should to start here.
@@ -106,7 +105,7 @@ Clients
 - [TortoiseSVN](https://tortoisesvn.net/) - Windows Explorer shell extension
 - [Version Control for engineers](http://soft.postpdm.com/)
 
-#### Mercurial
+### Mercurial
 
 - [Mercurial SCM](https://www.mercurial-scm.org/) - Older protocol also used in Fab Academy up to 2015
 - [TortoiseHg](http://tortoisehg.bitbucket.org/) - Windows Explorer shell extension
@@ -125,8 +124,41 @@ Mostly :free: with :moneybag: options
 
 ### 2D
 
+#### Drafting
+
 - [AutoCAD](https://www.autodesk.com/products/autocad/overview) :moneybag: :school:
 - [Draftsight](https://www.3ds.com/products-services/draftsight-cad-software/free-download/) Free software from Dassault, similar to Autocad features
+
+#### Raster
+
+- [Gimp](https://www.gimp.org/) - popular, and the only option for Linux users
+
+Commercial :moneybag:
+
+- :free: [MS Paint](https://en.wikipedia.org/wiki/Microsoft_Paint)- built in windows
+- [Photoshop](https://www.adobe.com/products/photoshop.html) - de facto standard for image editing
+- [LightRoom](https://www.adobe.com/it/products/photoshop-lightroom.html) - photo editing and organization
+- [Pixelmator](https://www.pixelmator.com/pro/) - cost effective image editing for Mac
+
+#### Vector
+
+- [Inkscape](https://inkscape.org/) best option for open-source lovers, many extensions, programming in python
+
+:moneybag: Commercial
+
+- [Illustrator](https://www.adobe.com/products/illustrator.html) standard software for professional graphic designers
+- [Corel Draw](https://www.coreldraw.com/it/) one of the oldest, still used often in the print & advertising industry
+
+#### Wireframes & UX Design
+
+- :free: [Adobe XD](https://www.adobe.com/it/products/xd.html) good free alternative to Sketch from Adobe
+
+:moneybag: Commercial
+
+- [Wireframe.cc](https://wireframe.cc) web based tool
+- [Balsamiq Mockups](https://balsamiq.com/) one of the best for low-fi mockups
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle) popular diagramming app for mac
+- [Sketch](https://www.sketchapp.com/) trendy app for modern UI designers, MAC only
 
 ### 3D
 
@@ -160,37 +192,6 @@ Mostly :free: with :moneybag: options
 
 - [Calculix](http://www.calculix.de/). Open Source alternative to Abaqus. Very similar input file.
 - [Paraview](https://www.paraview.org/) great post processor (Open Source)
-
-### Vector
-
-- [Inkscape](https://inkscape.org/) best option for open-source lovers, many extensions, programming in python
-
-:moneybag: Commercial
-
-- [Illustrator](https://www.adobe.com/products/illustrator.html) standard software for professional graphic designers
-- [Corel Draw](https://www.coreldraw.com/it/) one of the oldest, still used often in the print & advertising industry
-
-### Wireframes & UX Design
-
-- :free: [Adobe XD](https://www.adobe.com/it/products/xd.html) good free alternative to Sketch from Adobe
-
-:moneybag: Commercial
-
-- [Wireframe.cc](https://wireframe.cc) web based tool
-- [Balsamiq Mockups](https://balsamiq.com/) one of the best for low-fi mockups
-- [OmniGraffle](https://www.omnigroup.com/omnigraffle) popular diagramming app for mac
-- [Sketch](https://www.sketchapp.com/) trendy app for modern UI designers, MAC only
-
-### Raster
-
-- [Gimp](https://www.gimp.org/) - popular, and the only option for Linux users
-
-Commercial :moneybag:
-
-- :free: [MS Paint](https://en.wikipedia.org/wiki/Microsoft_Paint)- built in windows
-- [Photoshop](https://www.adobe.com/products/photoshop.html) - de facto standard for image editing
-- [LightRoom](https://www.adobe.com/it/products/photoshop-lightroom.html) - photo editing and organization
-- [Pixelmator](https://www.pixelmator.com/pro/) - cost effective image editing for Mac
 
 ## Computer controlled cutting
 
@@ -367,13 +368,6 @@ Independent:
 - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
 - [Open Electronics](https://github.com/intajay/open-electronics)
 - [Awesome Fabrication](https://github.com/ad-si/awesome-fabrication)
-
-## Symbols
-
-- :moneybag: commercial
-- :school: free for education
-- :white_check_mark: recommended
-- :free: commercial but with free license (possibly limited)
 
 ## Contribute
 
