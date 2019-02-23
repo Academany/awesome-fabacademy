@@ -1,13 +1,16 @@
 # Awesome Fabacademy
 
-A curated list of [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Fab Academy Resources. [![Travis build status](https://travis-ci.org/Academany/awesome-fabacademy.svg?branch=master)](https://travis-ci.org/Academany/awesome-fabacademy)
+A curated list of [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Fab Academy Resources. 
+
+[![Travis build status](https://travis-ci.org/Academany/awesome-fabacademy.svg?branch=master)](https://travis-ci.org/Academany/awesome-fabacademy)
 
 Emoji Symbols used in this list
-
 - :moneybag: `:moneybag:` = commercial
 - :school: `:school:` = free for education
 - :white_check_mark: `:white_check_mark:` = recommended
 - :free: `:free:` = commercial but with free license (possibly limited)
+
+Table of Contents
 
 - [Project Management](#project-management)
   - [Project management tools](#project-management-tools)
