@@ -1,16 +1,26 @@
 # Contribution Guidelines
 
+- [Code of conduct](#code-of-conduct)
+- [Guidelines](#guidelines)
+- [Adding something to this awesome list](#adding-something-to-this-awesome-list)
+- [Updating your Pull Request](#updating-your-pull-request)
+
+## Code of conduct
+
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
 project you agree to abide by its terms.
 
----
+## Guidelines
 
 Ensure your pull request adheres to the following guidelines:
 
 - All links are relevant, tested and well described
 - Topics should follow the Fab Academy units, then broken in tutorials, tools, resources.
-- Commercial products are marked as such, possibly including the street price ($=tens of dollars,$$=hundreds,$$$=thousands)
+- Commercial products are marked as such, possibly including the street price 
+  - :moneybag: = tens of dollars
+  - :moneybag::moneybag: = hundreds of dollars
+  - :moneybag::moneybag::moneybag: = thousands of dollars
 - For any commercial product inserted, make sure you add open source software and hardware alternatives
 - Open source links should include the license in brackets i.e. (MIT)
 
@@ -29,11 +39,11 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-## Updating your PR
+## Updating your Pull Request
 
-A lot of times, making a PR adhere to the standards above can be difficult.
+A lot of times, making a Pull Request adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
+edit your Pull Request before we merge it. There's no need to open a new Pull Request, just edit
 the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+on the different ways you can update your Pull Request so that we can merge it.
