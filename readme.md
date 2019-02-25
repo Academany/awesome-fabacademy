@@ -10,51 +10,60 @@ Emoji Symbols used in this list
 - :white_check_mark: `:white_check_mark:` = recommended
 - :free: `:free:` = commercial but with free license (possibly limited)
 
-Table of Contents
+**Table of Contents**
 
-- [Project Management](#project-management)
-  - [Project management tools](#project-management-tools)
-  - [Project management techniques](#project-management-techniques)
-- [Version Control](#version-control)
-  - [Git](#git)
-  - [Subversion](#subversion)
-  - [Mercurial](#mercurial)
-  - [Hosting platforms](#hosting-platforms)
-- [CAD](#cad)
-  - [2D](#2d)
-    - [Drafting](#drafting)
-    - [Raster](#raster)
-    - [Vector](#vector)
-    - [Wireframes & UX Design](#wireframes--ux-design)
-  - [3D](#3d)
-    - [Mesh modeling](#mesh-modeling)
-    - [Sculpting](#sculpting)
-    - [Parametric modeling](#parametric-modeling)
-    - [Simulation](#simulation)
-- [Computer controlled cutting](#computer-controlled-cutting)
-- [Electronics design](#electronics-design)
-  - [EDA Packages](#eda-packages)
-  - [KiCAD resources](#kicad-resources)
-  - [EAGLE Resources](#eagle-resources)
-  - [Simulators](#simulators)
-  - [Part Search](#part-search)
-  - [Development Board Retailers](#development-board-retailers)
-  - [Books](#books)
-  - [Blogs](#blogs)
-- [Electronics production](#electronics-production)
-  - [Soldering](#soldering)
-  - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
-  - [PCB Batching Services](#pcb-batching-services)
-- [3D Printing](#3d-printing)
-  - [Slicers](#slicers)
-  - [Control Software](#control-software)
-  - [Online 3D Model Repositories](#online-3d-model-repositories)
-  - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
-- [Wildcard week](#wildcard-week)
-  - [Digital Embroidery](#digital-embroidery)
-- [Related Awesome Lists](#related-awesome-lists)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome Fabacademy](#awesome-fabacademy)
+  - [Project Management](#project-management)
+    - [Project management tools](#project-management-tools)
+    - [Project management techniques](#project-management-techniques)
+  - [Version Control](#version-control)
+    - [Git](#git)
+    - [Subversion](#subversion)
+    - [Mercurial](#mercurial)
+    - [Hosting platforms](#hosting-platforms)
+  - [CAD](#cad)
+    - [2D](#2d)
+      - [Drafting](#drafting)
+      - [Raster](#raster)
+      - [Vector](#vector)
+      - [Wireframes & UX Design](#wireframes--ux-design)
+    - [3D](#3d)
+      - [Mesh modeling](#mesh-modeling)
+      - [Sculpting](#sculpting)
+      - [Parametric modeling](#parametric-modeling)
+      - [Simulation](#simulation)
+  - [Computer controlled cutting](#computer-controlled-cutting)
+  - [Electronics design](#electronics-design)
+    - [EDA Packages](#eda-packages)
+    - [KiCAD resources](#kicad-resources)
+    - [EAGLE Resources](#eagle-resources)
+    - [Simulators](#simulators)
+    - [Part Search](#part-search)
+    - [Development Board Retailers](#development-board-retailers)
+    - [Books](#books)
+    - [Blogs](#blogs)
+  - [Electronics production](#electronics-production)
+    - [Soldering](#soldering)
+    - [Inventory Management and Purchasing](#inventory-management-and-purchasing)
+    - [PCB Batching Services](#pcb-batching-services)
+  - [3D Printing](#3d-printing)
+    - [Slicers](#slicers)
+    - [Control Software](#control-software)
+    - [Online 3D Model Repositories](#online-3d-model-repositories)
+    - [On Demand 3D Printing Services](#on-demand-3d-printing-services)
+  - [3D Scanning](#3d-scanning)
+    - [Open-source Software](#open-source-software)
+    - [Open-source hardware](#open-source-hardware)
+    - [Commercial Software](#commercial-software)
+      - [Desktop](#desktop)
+      - [Mobile](#mobile)
+    - [Commercial Hardware](#commercial-hardware)
+    - [Low cost Hardware](#low-cost-hardware)
+  - [Wildcard week](#wildcard-week)
+    - [Digital Embroidery](#digital-embroidery)
+  - [Related Awesome Lists](#related-awesome-lists)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Project Management
 
@@ -85,8 +94,12 @@ Docs
 - [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn.
 - [Pro Git book](https://git-scm.com/book) by Scott Chacon and Ben Straub.
 - [Git How to](https://githowto.com/) - a guided tour that walks through the fundamentals of Git.
-- [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet from NDP software.
 - [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git.
+
+Cheatsheets
+
+- [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet from NDP software.
+- [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet) - Git Cheatsheet in many languages
 
 Clients
 
@@ -355,6 +368,57 @@ Independent:
 - [Shapeways](https://shapeways.com)
 - [Toybuilderlabs](http://toybuilderlabs.com)
 
+
+## 3D Scanning
+
+### Open-source Software
+
+- [Open source Photogrammetry](http://opensourcephotogrammetry.blogspot.com/): collection of photogrammetry tools
+- [OpenKinect](https://openkinect.org/wiki/Main_Page): open-source software for Kinect sensors
+- [VSFM](http://ccwu.me/vsfm/): image reconstruction
+- [AliceVison](https://alicevision.github.io/):  photogrammetry software
+- [ReconstructMe](http://reconstructme.net/):  real-time 3D reconstruction  
+
+
+### Open-source hardware
+
+- [Cyclop](https://reprap.org/wiki/Ciclop): open source laser scanner with 3D printed parts
+- [FabScanPi](http://mariolukas.github.io/FabScanPi-Server)
+
+
+### Commercial Software
+
+#### Desktop
+
+- [Skanect](https://skanect.occipital.com/): easy to use and compatible with different Primesense-based scanners
+- [Recap](https://www.autodesk.com/products/recap/overview): Autodesk software for 3D reconstruction, includes 
+  features from the old 123-Scan  
+- [Photoscan](https://www.agisoft.com/): high end software for photogrammetry
+- [3DSOM](http://www.3dsom.com/): photogrammetry for products
+
+#### Mobile
+
+- [TRNIO](http://www.trnio.com/): cheap photogrammetry software for iOS
+- [SCANN3D](https://play.google.com/store/apps/details?id=com.smartmobilevision.scann3d&hl=en_US): Android-based photogrammetry, 
+  :free: but subscription needed to export files
+- [QLone](https://www.qlone.pro/): easy to use app for Android and iOS, poor quality, expensive export options, 
+  :free: export to sketchfab
+
+### Commercial Hardware 
+
+- [Scan-in-a-box](https://www.scaninabox.com/): projector-based structured light scanner and software :moneybag:
+- [Artec Scanners](https://www.artec3d.com/): high-end handeld scanners  :moneybag::moneybag:
+- [ZEISS T-Scan](https://www.zeiss.com/metrology/products/systems/optical-systems/3d-scanning/zeiss-t-scan.html) professional
+  handeld scanner :moneybag: :moneybag: :moneybag:
+
+
+### Low cost Hardware
+
+- [Kinect](https://en.wikipedia.org/wiki/Kinect): historical low cost solution, older version from XBOX works with open-source sdk
+- [Structure Sensor](https://structure.io/): compact low cost scanner for Apple tablets
+- [Sense](https://www.3dsystems.com/shop/sense): low-cost low resolution scanner
+- [Primesense Carmine](http://xtionprolive.com/primesense-carmine-1.09-3d-sensor-motion-camera)
+
 ## Wildcard week
 
 ### Digital Embroidery
@@ -364,6 +428,7 @@ Independent:
 
 ## Related Awesome Lists
 
+- [Awesome Search](https://awesomelists.top/): search all awesome lists
 - [Awesome Project Management](https://github.com/brianjking/awesome-project-management)
 - [Awesome Arduino](https://github.com/Lembed/Awesome-arduino)
 - [Awesome 3D Printing](https://github.com/ad-si/awesome-3d-printing)
