@@ -138,6 +138,8 @@ Docs
 - [Pro Git book](https://git-scm.com/book): by Scott Chacon and Ben Straub.
 - [Git How to](https://githowto.com/): a guided tour that walks through the fundamentals of Git.
 - [Git Immersion](http://gitimmersion.com/): is a guided tour that walks through the fundamentals of Git.
+- [Git commit message](https://datree.io/blog/git-commit-message-conventions-for-readable-git-log/): best practices guide for writing a commit message.
+- [Useful Git commands]: Wishlist of Git commands – and their alternatives.
 
 Cheatsheets
 
