@@ -154,7 +154,6 @@ Clients
 - [TortoiseGit](https://tortoisegit.org/): Windows Explorer shell extension.
 - [GitKraken](https://www.gitkraken.com)
 - [Git Extensions](http://gitextensions.github.io/)LWindows Explorer extension.
-- [Legit](http://www.git-legit.org/): command-line interface for Git, optimized for workflow simplicity.
 - [Tower](https://www.git-tower.com/mac): powerful client for Mac and Windows
 
 ### Subversion
@@ -399,7 +398,6 @@ Independent:
 - [CGtrader](http://cgtrader.com)
 - [Cuboyo](http://cuboyo.com)
 - [Cults](http://en.cults3d.com)
-- [FabMe](http://fabme.it)
 - [GrabCAD](http://grabcad.com)
 - [MakerBot Digital Store](http://makerbot.com/digital-store)
 - [MyMiniFactory](http://myminifactory.com)
