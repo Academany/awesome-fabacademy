@@ -139,12 +139,13 @@ Docs
 - [Git How to](https://githowto.com/): a guided tour that walks through the fundamentals of Git.
 - [Git Immersion](http://gitimmersion.com/): is a guided tour that walks through the fundamentals of Git.
 - [Git commit message](https://datree.io/blog/git-commit-message-conventions-for-readable-git-log/): best practices guide for writing a commit message.
-- [Useful Git commands]: Wishlist of Git commands – and their alternatives.
 
 Cheatsheets
 
 - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html): Git Cheatsheet from NDP software.
-- [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet): Git Cheatsheet in many languages
+- [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet): Git Cheatsheet in many languages.
+- [Useful Git commands](https://dev.to/datreeio/10-insanely-useful-git-commands-you-wish-existed-and-their-alternatives-8e6): Wishlist of Git commands – and their alternatives.
+
 
 Clients
 
