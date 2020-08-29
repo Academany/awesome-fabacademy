@@ -394,6 +394,7 @@ Independent:
 - [3DAGOGO](https://3dagogo.com)
 - [Bld3r](http://bld3r.com)
 - [CGtrader](http://cgtrader.com)
+- [Hum3D](https://hum3d.com/) - the largest source for vehicle 3D models
 - [Cuboyo](http://cuboyo.com)
 - [Cults](http://en.cults3d.com)
 - [FabMe](http://fabme.it)
