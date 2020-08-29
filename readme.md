@@ -138,11 +138,14 @@ Docs
 - [Pro Git book](https://git-scm.com/book): by Scott Chacon and Ben Straub.
 - [Git How to](https://githowto.com/): a guided tour that walks through the fundamentals of Git.
 - [Git Immersion](http://gitimmersion.com/): is a guided tour that walks through the fundamentals of Git.
+- [Git commit message](https://datree.io/blog/git-commit-message-conventions-for-readable-git-log/): best practices guide for writing a commit message.
 
 Cheatsheets
 
 - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html): Git Cheatsheet from NDP software.
-- [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet): Git Cheatsheet in many languages
+- [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet): Git Cheatsheet in many languages.
+- [Useful Git commands](https://dev.to/datreeio/10-insanely-useful-git-commands-you-wish-existed-and-their-alternatives-8e6): Wishlist of Git commands – and their alternatives.
+
 
 Clients
 
@@ -151,7 +154,6 @@ Clients
 - [TortoiseGit](https://tortoisegit.org/): Windows Explorer shell extension.
 - [GitKraken](https://www.gitkraken.com)
 - [Git Extensions](http://gitextensions.github.io/)LWindows Explorer extension.
-- [Legit](http://www.git-legit.org/): command-line interface for Git, optimized for workflow simplicity.
 - [Tower](https://www.git-tower.com/mac): powerful client for Mac and Windows
 
 ### Subversion
@@ -397,7 +399,6 @@ Independent:
 - [Hum3D](https://hum3d.com/) - the largest source for vehicle 3D models
 - [Cuboyo](http://cuboyo.com)
 - [Cults](http://en.cults3d.com)
-- [FabMe](http://fabme.it)
 - [GrabCAD](http://grabcad.com)
 - [MakerBot Digital Store](http://makerbot.com/digital-store)
 - [MyMiniFactory](http://myminifactory.com)
